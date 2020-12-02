@@ -1,9 +1,9 @@
 module.exports = {
-  prefix: '^^',
-  token: 'NzcwMTg3MzUxNjEwNjIxOTUz.X5Z63g.abr9GSBGNJS7BA6hvsYoJJ_2VsQ',
-  roleId: '753260876953550858',
-  roleName: 'Admin',
+  prefix: '_',
+  token: 'NzgyOTQxNDU2OTk4MjAzMzky.X8ThDQ.z_gkUvHYmi75rGBM-e3x22AyTqE',
+  roleId: '783744477755736114',
+  roleName: 'Bot.ORB',
   devId: '572327928646598667',
-  status: 'Jerry Boys Videos ',
-  type: 'WATCHING'
+  status: 'with exos life',
+  type: 'PLAYING'
 };
