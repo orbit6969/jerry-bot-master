@@ -1,0 +1,27 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrustPlay/CrustOfficial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrustPlay/CrustOfficial/issues"
+  },
+  "homepage": "https://github.com/CrustPlay/CrustOfficial#readme",
+  "dependencies": {
+    "discord.js": "^12.4.0",
+    "fs": "0.0.1-security",
+    "klaw": "^3.0.0",
+    "path": "^0.12.7",
+    "util": "^0.12.3"
+  }
+}
